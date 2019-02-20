@@ -19,6 +19,10 @@ Observations having equal values are assigned the mean rank across the tie. When
 
 
 
+|                | **Asymptotic/Normal Approximation** | **Continuity Correction** | **Correction for Ties** |
+| :------------- | :-----------------: | -----------: | -----------: |
+|  **R** <sup>(stats package wilcox.test() function)</sup> | Yes | Yes | Yes |
+|  **Java** <sup>(org.apache.commons.math3.stat.inference: MannWhitneyUTest)</sup>  | Yes | none | none |
 
 
 ## References
