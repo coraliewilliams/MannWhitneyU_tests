@@ -19,13 +19,13 @@ Observations having equal values are assigned the mean rank across the tie. When
 
 
 
-*[1] Ludbrook, J., and Dudley, H. (1998), "Why Permutation Tests are Superior to t and F Tests in Biomedical Research," The American Statistician, 52, 127-132.
+*[1] Ludbrook, J., and Dudley, H. (1998), "Why Permutation Tests are Superior to t and F Tests in Biomedical Research," The American Statistician, 52, 127-132.*
 
-*[2] Wilcoxon, F. (1945), "Individual Comparison by Ranking Methods," Biometrics, 1, 80-83.
+*[2] Wilcoxon, F. (1945), "Individual Comparison by Ranking Methods," Biometrics, 1, 80-83.*
 
-*[3] R. Bergmann, J. Ludbrook, and W. P. J. M. Spooren (2000), “Different Outcomes of the Wilcoxon—Mann—Whitney Test from Different Statistics Packages,” Am. Stat., vol. 54, no. 1, pp. 72–77, Feb. 2000.
+*[3] R. Bergmann, J. Ludbrook, and W. P. J. M. Spooren (2000), “Different Outcomes of the Wilcoxon—Mann—Whitney Test from Different Statistics Packages,” Am. Stat., vol. 54, no. 1, pp. 72–77, Feb. 2000.*
 
-*[4] Lehmann, E. L. (1998), Nonparametrics: Statistical Methods Based on Ranks (revised 1st ed.), Upper Saddle River, NJ: Prentice Hall.
+*[4] Lehmann, E. L. (1998), Nonparametrics: Statistical Methods Based on Ranks (revised 1st ed.), Upper Saddle River, NJ: Prentice Hall.*
 
-*[5] Mann, H. B., and Whitney, D. R. (1947), "On a Test of Whether One of Two Random Variables is Stochastically Larger than the Other," Annals of Mathematical Statististics, 18, 50-60.
+*[5] Mann, H. B., and Whitney, D. R. (1947), "On a Test of Whether One of Two Random Variables is Stochastically Larger than the Other," Annals of Mathematical Statististics, 18, 50-60.*
 
