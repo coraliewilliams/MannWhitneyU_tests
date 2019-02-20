@@ -23,9 +23,9 @@ Observations having equal values are assigned the mean rank across the tie. When
 
 
 |              | **Normal Approximation** | **Continuity Correction** | **Correction for Ties** |
-| :----------- | :--------------------------: | :-------------------: | :------------------: |
+| :----------- | :----------------: | :------------: | :------------: |
 |  **R** <p><sup>(stats package *wilcox.test()* function)</sup></p>| Yes | Yes | Yes |
-|  **Java** <p><sup>(org.apache.commons.math3.stat.inference: *MannWhitneyUTest* function)</sup></p> | Yes | none | none |
+|  **Java** <p><sup>(org.apache.commons.math3.stat.inference: *MannWhitneyUTest*)</sup></p> | Yes | none | none |
 |  **Python** <p><sup>(scipy.stats *mannwhitneyu* function)</sup></p>| Yes | Yes | Yes |
 
   
