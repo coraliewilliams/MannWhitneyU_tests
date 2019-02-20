@@ -19,6 +19,10 @@ Observations having equal values are assigned the mean rank across the tie. When
 
 
 
+
+
+## References
+
 *[1] Ludbrook, J., and Dudley, H. (1998), "Why Permutation Tests are Superior to t and F Tests in Biomedical Research," The American Statistician, 52, 127-132.*
 
 *[2] Wilcoxon, F. (1945), "Individual Comparison by Ranking Methods," Biometrics, 1, 80-83.*
