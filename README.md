@@ -19,12 +19,17 @@ Observations having equal values are assigned the mean rank across the tie. When
 
 
 
-|                | **Asymptotic/Normal Approximation** | **Continuity Correction** | **Correction for Ties** |
-| :------------- | :-----------------: | -----------: | -----------: |
-|  **R** <sup>(stats package wilcox.test() function)</sup> | Yes | Yes | Yes |
-|  **Java** <sup>(org.apache.commons.math3.stat.inference: MannWhitneyUTest)</sup>  | Yes | none | none |
+### Summary Table of Mann-Whitney U Tests variants in each statistical function:
 
 
+|              | **Normal Approximation** | **Continuity Correction** | **Correction for Ties** |
+| :----------- | :--------------------------: | :-------------------: | :------------------: |
+|  **R** <p><sup>(stats package *wilcox.test()* function)</sup></p>| Yes | Yes | Yes |
+|  **Java** <sup>(org.apache.commons.math3.stat.inference: *MannWhitneyUTest* function)</sup>| Yes | none | none |
+|  **Python** <p><sup>(scipy.stats *mannwhitneyu* function)</sup></p>| Yes | Yes | Yes |
+
+  
+  
 ## References
 
 *[1] Ludbrook, J., and Dudley, H. (1998), "Why Permutation Tests are Superior to t and F Tests in Biomedical Research," The American Statistician, 52, 127-132.*
