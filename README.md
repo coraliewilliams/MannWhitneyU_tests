@@ -4,12 +4,12 @@
 
 Mann-Whitney U test is the nonparametric equivalent of Student’s t test to compare two groups of continuous observations that are not normally distributed. Mann-Whitney U test is described in the literature also as Wilcoxon-Mann-Whitney (WMW) or Wilcoxon rank-sum test. A common misconception is that Mann-Whitney U test does not test for equality of group medians but rather tests for equality of group mean ranks.
 
-There are three factors that can vary when implementing the Mann-Whitney U test and it’s significance [1]:
+There are three factors that can vary when implementing the Mann-Whitney U test and its significance [1]:
 
 #### 1) Large-sample (asymptotic/normal) approximation:
 There are two options to calculate the significance values:
-By exact permutation: preferred when sample sizes are small. When there are no ties the null distribution of Wilcoxon rank-sum statistic uses the total number of observations in both samples
-Large sample (asymptotic/normal) approximation: described for sample sizes bigger than 10.
+- **By exact permutation**: preferred when sample sizes are small. When there are no ties the null distribution of Wilcoxon rank-sum statistic uses the total number of observations in both samples.
+- **Large sample (asymptotic/normal) approximation**: described for sample sizes bigger than 10.
 
 #### 2) Continuity correction:
 When normal approximation is used this correction accounts for the discrete distribution of the Mann-Whitney U statistic (and not continuous as the normal distribution). 
