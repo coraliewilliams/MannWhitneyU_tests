@@ -4,4 +4,4 @@
 
 Mann-Whitney U test is the nonparametric equivalent of Student’s t test to compare two groups of continuous observations that are not normally distributed. Mann-Whitney U test is described in the literature also as Wilcoxon-Mann-Whitney (WMW) or Wilcoxon rank-sum test. 
 
-Significance results of Mann-Whitney U tests across several statistical software packages were found to differ.
+It was found that significance results of Mann-Whitney U tests vary across several statistical software packages.
